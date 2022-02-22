@@ -9,7 +9,7 @@ permalink: mydoc_release_notes_50.html
 folder: mydoc
 ---
 
-## Unique sidebars for each product
+## Unique sidebars for each product Fun Stuff
 
 In previous versions of the theme, I built the theme to generate different outputs for different scenarios based on various filtering attributes that might include product, version, platform, and audience variants.
 
